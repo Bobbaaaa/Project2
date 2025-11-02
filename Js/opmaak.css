@@ -1,0 +1,28 @@
+body{
+background-color: #3f3f3f;
+color: white;
+}
+.custom-nav {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+    }
+.text-limit{
+    max-width: 50%;
+}
+.active{
+  color: white !important;
+}
+.po {
+  margin: 5px 0;
+}
+.da{
+  background-color: gray;
+}
+.max30{
+  max-width: 30%;
+}
+.fl{
+  margin-right: 300px;
+}
+.max50{
+  max-width: 50%;
+}
